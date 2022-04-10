@@ -105,3 +105,14 @@ dist
 
 # Ignore Mac system files
 .DS_store
+
+# VisualStudioCode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# VisualStudioCode###
+# Ignore all local history of files
+**/.history
