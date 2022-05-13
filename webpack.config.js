@@ -23,6 +23,7 @@
              '@icons': path.resolve(__dirname, './src/assets/Platzi_YardSale_Icons/'),
              '@logos': path.resolve(__dirname, './src/assets/Platzi_YardSale_Logo/'),
              '@hooks': path.resolve(__dirname, './src/hooks/'), 
+             '@context': path.resolve(__dirname, './src/context/'), 
          }
      },
      mode: 'development',
