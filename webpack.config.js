@@ -6,7 +6,7 @@
      entry: './src/index.js',
      output: {
          path: path.resolve(__dirname, 'dist'),
-         filename: 'bundle.js',
+         filename: 'react-shop/bundle.js',
          publicPath: '/',
      },
      resolve: {
