@@ -7,7 +7,7 @@
      output: {
          path: path.resolve(__dirname, 'dist'),
          filename: 'react-shop/bundle.js',
-         publicPath: '/',
+         publicPath: '/react-shop/',
      },
      resolve: {
          extensions: [

@@ -2,7 +2,7 @@
   "name": "react-shop",
   "version": "1.0.0",
   "description": "proyecto de practica con react",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/cstgarcia1204/react-shop/issues"
   },
-  "homepage": "https://github.com/cstgarcia1204/react-shop#readme",
+  "homepage": "https://github.com/cstgarcia1204/react-shop/",
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.17.0",
     "axios": "^0.26.1",
